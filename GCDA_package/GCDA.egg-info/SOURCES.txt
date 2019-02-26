@@ -1,0 +1,11 @@
+README.md
+setup.py
+GCDA/GermanCreditDataAnalysis.py
+GCDA/__init__.py
+GCDA/german_credit_data.csv
+GCDA.egg-info/PKG-INFO
+GCDA.egg-info/SOURCES.txt
+GCDA.egg-info/dependency_links.txt
+GCDA.egg-info/not-zip-safe
+GCDA.egg-info/requires.txt
+GCDA.egg-info/top_level.txt
